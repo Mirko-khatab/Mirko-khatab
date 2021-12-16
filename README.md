@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on course
-- 🌱 I’m currently Tpescript
+- 🌱 I’m currently Typescript
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about soft sckils
