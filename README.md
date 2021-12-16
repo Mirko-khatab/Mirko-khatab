@@ -30,13 +30,6 @@
 <br />
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Mirko's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
-
-</details>
-
 
 [website]: https://l.facebook.com/l.php?u=https%3A%2F%2Fmirko-khatab.github.io%2Fmywebsite%2F%3Ffbclid%3DIwAR3huZJ6Iydo2Uj4HSt9knk0Yg7FvElkVVxmhmne_1xxeIBz8j5sN8qEc1U&h=AT02UsgQs5-feqfGFd8iSUYzUQEXSkwdfyA72Pg9XfpaX4Y18VT4ckJVc3K6wjHNcHXuKb6401A-F4rhkPIDqs-C93WhFocD7GuKk21sNPPA4m41pZJrw_3fhIti0h_Rf1_g&__tn__=H-R&c[0]=AT0G4tW9RaPfbgMFS6lH9rHteV1Vmp96jfZBhq6TcbuL3NDWkzSaY01d05fuXd99X78eP7VbR3Z_LZVdk888iwV-bPiFeWvPAnVIjqjWuj_gj9o6dl_xddJ02S7ziZnnAc_b226JiQP2m5yZwGYU1Q68
 [youtube]: https://www.youtube.com/channel/UCv5m9wMAwUvgDlRYhVHHqew
