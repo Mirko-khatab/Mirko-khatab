@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on course
-- 🌱 I’m currently Typescript
+- 🌱 I’m Typescript and native programmer
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about soft sckils
 - 📫 How to reach me: ...(facebook)(https://www.facebook.com/mirko.kawa.921/)
