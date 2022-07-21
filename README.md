@@ -2,7 +2,7 @@
 
 </div>
 <h3 align="center">hi i'm Mirko  👋, </h1>
-<h3 align="center" dir="rtl">Full Stack Developer  😜</h3>
+<h3 align="center" dir="rtl">Full Stack Developer  </h3>
 
 
 <h5 align="right"><b>i use linux ubunto 🌱</b></h3>
