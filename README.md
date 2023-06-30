@@ -4,14 +4,6 @@
 <h3 align="center">hi i'm Mirko  👋, </h1>
 <h3 align="center" dir="rtl">Full Stack Developer  </h3>
 
-
-<h5 align="right"><b>i use linux ubunto 🌱</b></h3>
-<h5 align="right"><b>my favorit is coffe ☕</b></h3>
-<h5 align="right"><b>daily working on MERN STACK💻</b></h3>
-<h5 align="right"><b>I like working if you wonted something contact with me </b></h3>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
