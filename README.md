@@ -21,7 +21,6 @@
 
 <p>
 
-<img alt="Globe" height="80" src="https://media.tenor.com/x6w5niSTPysAAAAd/responsive-website.gif">
 </a>
 </p>
 
