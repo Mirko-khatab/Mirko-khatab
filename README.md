@@ -1,4 +1,4 @@
-# Greetings! 👋 I'm [Your Name]
+# Greetings! 👋 I'm Mirko Kawa
 
 Welcome to my GitHub repository! I'm a 23-year-old developer from Iraq who's deeply passionate about Node.js, the MERN stack, and the enchanting world of AI.
 
@@ -18,8 +18,7 @@ As a fan of Linux and an enthusiast for open-source software, I see the future u
 
 ## Connect and Reach Out
 
-📌 Catch me on [LinkedIn](https://www.linkedin.com/in/yourusername)
-🐦 Follow me on [Twitter](https://twitter.com/yourusername)
+📌 Catch me on [LinkedIn](https://www.linkedin.com/in/mirko-kawa-342093212/)
 🌐 Connect on [Facebook](https://www.facebook.com/mirko.kawa.921/)
 📞 Reach out via Phone/WhatsApp/Viber: +964 773 889 6515
 
