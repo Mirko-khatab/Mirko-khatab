@@ -1,0 +1,30 @@
+name: 🐍 Generate Snake Contribution GIF
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 23 * * *' # Runs at 23:30 every day.
+
+jobs:
+  generate-snake-game:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      
+      - name: Generate Snake Game
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif
+
+      - name: Commit and Push
+        run: |
+          git config --global user.email "mirkokawa7@gmail.com"
+          git config --global user.name "Mirko-khatab"
+          git add dist/*
+          git commit -m ":snake: Update snake game" -a || echo "No changes to commit"
+          git push
