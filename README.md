@@ -6,7 +6,7 @@ Welcome to my GitHub repository! I'm a 23-year-old developer from Iraq who's dee
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
+    github_user_name: Mirko-khatab
 
     # list of files to generate.
     # one file per line. Each output can be customized with options as query string.
