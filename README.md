@@ -2,6 +2,10 @@
 
 Welcome to my GitHub repository! I'm a 23-year-old developer from Iraq who's deeply passionate about Node.js, the MERN stack, and the enchanting world of AI.
 
+![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
+
+
 ## About Me
 
 - 🖥️ Proud Mac and Linux user, with a soft spot for Ubuntu and Linux distributions.
