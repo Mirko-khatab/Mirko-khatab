@@ -1,6 +1,6 @@
 # Greetings! 👋 I'm Mirko Kawa
 
-Welcome to my GitHub repository! I'm a 23-year-old developer from Iraq who's deeply passionate about Node.js, the MERN stack, and the enchanting world of AI.
+Welcome to my GitHub repository! I'm a 24-year-old developer from Iraq who's deeply passionate about Node.js, the MERN stack, and the enchanting world of AI.
 
 ## About Me
 
